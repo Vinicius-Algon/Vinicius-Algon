@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>Repositório do Vinícius</h1>
 
-<!--
-**Vinicius-Algon/Vinicius-Algon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Linguagens de Programação</h3>
+<h4>
+  <ul>
+    <li>Java</li>
+    <li>PHP</li>
+    <li>CSS e HTML</li>
+    <li>Python</li>
+    <li>MySQL</li>
+  </ul>
+</h4>
